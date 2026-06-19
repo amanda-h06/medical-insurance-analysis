@@ -1,8 +1,9 @@
-Medical Insurance Charges Determinants
+**Medical Insurance Charges Determinants**
 
-*Project Details:*
-Methodology: Inferential Statistical Analysis    
-Domain: Insurance / Healthcare
-Dataset Link: https://www.kaggle.com/datasets/mirichoi0218/insurance
-Problem Statement: Which features significantly drive insurance charges, and how large are their effects?
-Techniques Used: Multiple linear regression, t-tests on coefficients, residual diagnostics
+*Research Question:* Which factors significantly influence medical insurance charges, and how large are their effects?
+
+*Methodology:* Inferential Statistical Analysis
+
+*Domain:* Healthcare & Insurance
+
+*Dataset Link:* https://www.kaggle.com/datasets/mirichoi0218/insurance
